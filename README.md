@@ -8,12 +8,12 @@ Asistente virtual con algunas funciones básicas.
 * Qué día es hoy
 * Qué hora es
 * Busca en wikipedia
-* Busca en internet, 
-* Escuchar, 
-* Chiste, 
-* Enviar mensaje, 
-* Controlar pc, 
-* Tomar captura,
-* Precio de las acciones, 
+* Busca en internet
+* Escuchar
+* Chiste
+* Enviar mensaje
+* Controlar pc
+* Tomar captura
+* Precio de las acciones 
 * Me voy a dormir
 
